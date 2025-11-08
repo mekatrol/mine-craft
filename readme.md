@@ -2,7 +2,10 @@
 
 ## Install Minecraft launcher Java Edition version 1.20.1
 > [Go to the official site](https://www.minecraft.net/en-us/download)  
-> Choose “Windows Legacy” under Other Versions & Platforms at bottom of page.  
+> Choose “Windows Legacy” under Other Versions & Platforms at bottom of page.
+> Install
+> In launcher select Minecraft: Java Edition
+> Create a new installation with version 1.20.1
 
 ## Download these files from this repo:
 
