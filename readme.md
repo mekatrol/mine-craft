@@ -22,7 +22,7 @@
 ## Run forge installer
 
 > Double click forge-1.20.1-47.4.10-installer.jar  
-> select client install
+> select 'Install client'
 > complete the install  
 
 ## Minecraft: JAVA Edition Launcher
