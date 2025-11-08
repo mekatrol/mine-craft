@@ -23,7 +23,17 @@
 
 > Double click forge-1.20.1-47.4.10-installer.jar  
 > select 'Install client'
-> complete the install  
+> complete the install
+
+## Copy mods
+
+> Make sure the mod directory exists: C:\Users\<user_name>\AppData\Roaming\.minecraft\mods (where <user_name> is your user name
+> Copy the mod files:
+>   custom_nether_portals-forge-1.20.1-1.0.0.jar  
+>   moremobheads-0.2.1-1.20.1.jar  
+>   More Wandering Trades 1.0.0 - 1.20.1.jar  
+>   serversleep-datapack.jar
+> to the folder C:\Users\<user_name>\AppData\Roaming\.minecraft\mods (where <user_name> is your user name
 
 ## Minecraft: JAVA Edition Launcher
 
