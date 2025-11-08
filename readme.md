@@ -1,5 +1,6 @@
 # Set up client
 
+## Install Minecraft launcher Java Edition version 1.20.1
 
 ## Download these files from this repo:
 
